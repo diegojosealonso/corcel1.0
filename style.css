@@ -1,0 +1,145 @@
+:root {
+  --color-cream: #f5f0e8;
+  --color-wine: #8b2a2a;
+  --color-gray-text: #3a3530;
+  --color-gray-mid: #7a7068;
+  --color-gray-light: #c8c0b8;
+  --font-script: 'Dancing Script', cursive;
+  --font-body: 'Lora', serif;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-gray-text);
+  background-color: var(--color-cream);
+  margin: 0;
+  padding: 0;
+}
+
+.heroCover {
+  min-height: 100vh;
+  background-image: url('https://res.cloudinary.com/dmonwbtuz/image/upload/v1779389913/background_upkpbn.png');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.coverInner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  width: 100%;
+}
+
+.coverLogo {
+  width: 400px;
+  align-self: center;
+  margin-left: 250px;
+}
+
+.coverPhoto {
+  width: 350px;
+  transform: rotate(-1.5deg);
+}
+
+.aboutText {
+  padding: 80px 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.aboutQuote {
+  font-style: italic;
+  color: var(--color-gray-text);
+  margin-bottom: 24px;
+}
+
+.aboutText p {
+  font-size: 15px;
+  line-height: 1.85;
+  margin-bottom: 18px;
+}
+
+.aboutUs {
+  padding: 48px 0 120px 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.aboutUsDecor {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 32px;
+}
+
+.folderDecor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.folderImg {
+  width: 64px;
+}
+
+.folderLabel {
+  font-size: 12px;
+  color: var(--color-gray-text);
+}
+
+.headphonesImg {
+  width: 110px;
+}
+
+.bunniesImg {
+  width: 120px;
+}
+
+.poetrySection {
+  padding: 48px 0 80px 0;
+  background-color: #fff;
+}
+
+.poetryTitle {
+  display: block;
+  width: 200px;
+  margin: 0 auto 40px auto;
+}
+
+.poetrySection .card {
+  border: 1px solid var(--color-gray-light);
+  border-radius: 4px;
+  width: 180px;
+  margin: 0 auto;
+}
+
+.poetrySection .card-img-top {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.poetrySection .row {
+  gap: 12px;
+  justify-content: center;
+}
+
+.siteFooter {
+  background-color: var(--color-cream);
+  border-top: 1px solid var(--color-gray-light);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 32px;
+}
+
+.siteFooter p {
+  font-size: 13px;
+  color: var(--color-gray-mid);
+  margin: 0;
+}

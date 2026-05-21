@@ -1,0 +1,84 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "El gorrión y el prisionero (Cuento inconcluso)",
+      "author": "Miguel Hernández Gilabert",
+      "category": "Lírica",
+      "year": "1938",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/hernandez_zdldbb.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Elegía a Ramón Sijé",
+      "author": "Miguel Hernández",
+      "category": "Lírica",
+      "year": "1936",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/hernandez_zdldbb.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nanas de la cebolla",
+      "author": "Miguel Hernández",
+      "category": "Lírica",
+      "year": "1939",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/hernandez_zdldbb.jpg"
+    },
+    {
+      "id": 4,
+      "title": "El niño yuntero",
+      "author": "Miguel Hernández",
+      "category": "Lírica",
+      "year": "1937",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/hernandez_zdldbb.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Autobío",
+      "author": "Gloria Fuertes",
+      "category": "Lírica",
+      "year": "1954",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/fuertes_btmxax.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Al borde",
+      "author": "Gloria Fuertes",
+      "category": "Lírica",
+      "year": "1958",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/fuertes_btmxax.jpg"
+    },
+    {
+      "id": 7,
+      "title": "No perdamos el tiempo",
+      "author": "Gloria Fuertes",
+      "category": "Lírica",
+      "year": "1960",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/fuertes_btmxax.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Pido la paz y la palabra",
+      "author": "Blas de Otero",
+      "category": "Lírica",
+      "year": "1955",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/deOtero_r5sc0g.jpg"
+    },
+    {
+      "id": 9,
+      "title": "La poesía es un arma cargada de futuro",
+      "author": "Gabriel Celaya",
+      "category": "Lírica",
+      "year": "1955",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/celaya_csk7dm.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Humana voz",
+      "author": "Ángela Figuera Aymerich",
+      "category": "Lírica",
+      "year": "1948",
+      "image": "https://res.cloudinary.com/dmonwbtuz/image/upload/v1779392236/figuera_cnqfqh.jpg"
+    }
+  ]
+}
