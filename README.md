@@ -46,6 +46,20 @@ The decorative elements on the page (the folder, the headphones, the bunnies) ar
 
 ---
 
+## Screenshots
+
+**Figma prototype**
+
+![Figma prototype](https://res.cloudinary.com/dmonwbtuz/image/upload/v1779394457/Captura_de_pantalla_2026-05-21_221149_vgle5e.png)
+
+**Version 1.0**
+
+![Version 1.0](https://res.cloudinary.com/dmonwbtuz/image/upload/v1779394456/Captura_de_pantalla_2026-05-21_221201_n6njpu.png)
+
+
+---
+
+
 ## Credits
 
 - Horse photograph: Josefita Martín (my grandmother, who had no idea she would end up on the internet one day haha)
